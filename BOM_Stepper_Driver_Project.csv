@@ -1,0 +1,6 @@
+Component,Purpose,Quantity,Total Cost (USD),Distributor,Read
+Brass Inserts,Used for secure mounting and structural assembly of the mechanical frame,20,1.0,OnlyScrews,Improves durability and allows repeated assembly without damaging printed parts
+Bearings,Provides smooth rotational motion and supports actuator movement,4,5.3,OnlyScrews,Reduces friction and improves precision of the mechanism
+NEMA 17 Stepper Motor,Main actuator used for controlled motion and positioning,2,10.66,Robocraze,Enables accurate motion control for robotics and automation applications
+Custom PCBA,"Core electronics system containing power delivery, control circuitry, and motor driver hardware",1,164.48,JLCPCB,"Integrates USB C PD, motor control, protection circuitry, and optimized PCB layout into a compact embedded system"
+FINAL TOTAL,,,181.44,,Approx INR Cost: ₹15600
